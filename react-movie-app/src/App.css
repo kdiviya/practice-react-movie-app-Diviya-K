@@ -1,0 +1,80 @@
+
+
+.moviePage{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(40, 8, 127);
+    display: flex;
+    flex-direction: column; 
+    justify-content: flex-start;
+    align-items: center;   
+    text-align: center;
+    gap: 20px;
+    padding-top: 40px; 
+    
+}
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(40, 8, 127);
+}
+
+.data{
+    display: flex;
+    align-items: center;
+    flex-direction: column; 
+    gap: 16px;
+    width: 100%; 
+    
+}
+
+.data select
+ {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(40, 8, 127); 
+    padding: 8px 12px;
+    width: 300px;
+    height:50px;
+    border: 1px solid #3e3d3d;
+    border-radius: 4px;
+}
+
+.data button {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(40, 8, 127); 
+    width: 300px;
+    height:50px;
+    border: 1px solid #3e3d3d;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+ul {
+
+    list-style-type: square;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(40, 8, 127);
+    padding: 0;
+    margin: 0;
+    
+  }
+
+  p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(40, 8, 127);
+  }
+
+  
+
+    li {
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-size: 20px;
+      margin: 10px;
+      
+    }
